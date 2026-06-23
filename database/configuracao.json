@@ -1,0 +1,117 @@
+{
+    "Status1": "Vendas on",
+    "Status2": "WINNBUXX",
+    "Verificacaobrigatoria": "false",
+    "Entradas": {
+        "msg": "Nao Configurado",
+        "tempo": 5,
+        "channelid": [],
+        "canaisConfig": []
+    },
+    "ConfigRoles": {
+        "cargoadm": "",
+        "cargosup": "",
+        "cargomembro": "",
+        "cargoCliente": ""
+    },
+    "pagamentos": {
+        "MpAPI": "",
+        "BancosBloqueados": [],
+        "SemiAutomatico": {
+            "status": false,
+            "pix": "",
+            "msg": "apos o pagamento lembre-se de enviar o comprovante!"
+        },
+        "sistema_efi": false,
+        "certificado": "",
+        "secret_id": "",
+        "chavepix": "",
+        "secret_token": "",
+        "MpOnOff": false,
+        "MpSite": false,
+        "MisticSystem": false,
+        "mistclientid": "",
+        "misticsecret": "",
+        "//": "--- CONFIGURAÇÕES BANCO INTER ---",
+        "InterSystem": false,
+        "interclientid": "",
+        "intersecret": "",
+        "interconta": "",
+        "intercertnome": "",
+        "interkeynome": "",
+        "imap": {
+            "status": false,
+            "banco_atual": "inter",
+            "user": "",
+            "password": "",
+            "host": "imap.gmail.com",
+            "chavepiximap": "",
+            "port": "993"
+        }
+    },
+    "ConfigCarrinho": {
+        "inatividade": 10,
+        "pospagamento": 10
+    },
+    "ConfigChannels": {
+        "logsticket": "",
+        "systemlogs": "",
+        "entradas": "",
+        "saídas": "",
+        "logpedidos": "",
+        "eventbuy": "",
+        "tráfego": "",
+        "feedback": "",
+        "mensagens": "",
+        "antiraid": "",
+        "boasvindascoole": "",
+        "boasvindas": "",
+        "logscomandos": "",
+        "auditoria": "",
+        "logsban": ""
+    },
+    "Repostagem": {
+        "Status": false,
+        "Hora": "08:00"
+    },
+    "QRCode": {
+        "principal": "#2eab67",
+        "lateral": "#565654",
+        "gradient": "radial"
+    },
+    "solicitarStock": {
+        "canalLogs": "",
+        "embed": {
+            "titulo": "Solicitar stock",
+            "descricao": "**Solicite o stock de algum produto que queira**",
+            "cor": "#2F3136",
+            "imagem": "",
+            "thumbnail": ""
+        },
+        "botao": {
+            "emoji": ""
+        }
+    },
+    "sistemaSugestoes": {
+        "canal": "",
+        "cargoAvaliador": "",
+        "habilitado": false
+    },
+    "posicoes": {
+        "pos3": {
+            "role": "",
+            "valor": "250"
+        },
+        "pos2": {
+            "role": "",
+            "valor": "500"
+        },
+        "pos1": {
+            "role": "",
+            "valor": "750"
+        }
+    },
+    "Cores": {
+        "Principal": "#0079cf"
+    }
+}

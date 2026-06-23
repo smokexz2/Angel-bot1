@@ -1,0 +1,5 @@
+DISPLAY_NAME=Angel Bot
+MEMORY=256
+VERSION=recommended
+AUTORESTART=true
+MAIN=index.js

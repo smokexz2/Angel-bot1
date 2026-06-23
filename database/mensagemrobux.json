@@ -1,0 +1,21 @@
+{
+    "mensagemPadrao": {
+        "titulo": "Área de pedidos | Bot Robux",
+        "descricao": "Olá! Seja bem-vindo(a) ao **Painel Oficial de Compras** do **Bot Robux**, onde você pode adquirir **Robux** e **Gamepasses** com segurança, agilidade e atendimento profissional.",
+        "orientacoes": [
+            "Revise todas as informações antes de abrir um ticket.",
+            "Certifique-se de estar com os dados corretos de sua conta.",
+            "Para **Gamepasses**: desative preços regionais antes da compra.",
+            "Compras feitas com valores regionais incorretos **não possuem reembolso**."
+        ],
+        "rodape": "Escolha uma opção para solicitar o seu pedido"
+    },
+    "configCarrinho": {
+        "termosConfig": {
+            "campo1": "**Termos Gerais**\n\n* Não nos responsabilizamos por erros, atrasos ou perdas decorrentes de informações incorretas ou incompletas **fornecidas pelo cliente.** <a:g_melancolia:1500503729600729223> \n* Todos os pagamentos devem ser realizados **integralmente e antecipadamente**, antes do início de qualquer **processo de entrega.** <a:gifsino:1501032201314107453> \n* Após a confirmação do pagamento o pedido será automaticamente inserido na fila de entrega. <a:horarioo:1501032208599748680> \n* Qualquer tentativa de chargeback, estorno indevido ou fraude resultará em **banimento permanente do servidor e da loja.** <a:sirenevermelhagif:1501032203034038354> \n* Ao **realizar uma compra**, o cliente declara estar ciente e de acordo com todos os termos aqui descritos. <a:Verify:1501032206355796058>",
+            "campo2": "**Pagamentos**\n\n* Todos os pagamentos devem ser realizados **integralmente e antecipadamente**, antes do início de qualquer **processo de entrega.** <a:gifsino:1501032201314107453> \n* Após a confirmação do pagamento o pedido será automaticamente inserido na fila de entrega. <a:horarioo:1501032208599748680> \n* Qualquer tentativa de chargeback, estorno indevido ou fraude resultará em **banimento permanente do servidor e da loja.** <a:sirenevermelhagif:1501032203034038354>",
+            "campo3": "**Reembolsos**\n\n* Não **realizamos reembolsos** após o envio ou início do processo de entrega. <a:gifsino:1501032201314107453> \n* Reembolsos serão analisados **apenas em casos onde o erro seja comprovadamente exclusivo da loja.** <a:sirenevermelhagif:1501032203034038354> \n* Em casos de desistência, arrependimento ou mudança de decisão após o pagamento, **não haverá devolução de valores.** <a:Verify:1501032206355796058>",
+            "campo4": "**Entrega de Robux**\n\n* A entrega dos Robux é realizada exclusivamente via **Gamepass.** <a:916327685087707147:1500503713045938317> \n* Os Robux são creditados na conta do cliente em um **prazo médio de 5 a 7 dias,** de forma automática, conforme as **políticas do Roblox.** <:robux:1499899544660475975> \n* O prazo de entrega pode sofrer variações e será **informado no momento da compra.** <:294_angel:1499899383066525788>\n-# .  ╰Para mais informações, acesso todos os termos [Aqui](https://discord.com/channels/1499893518133497956/1500615774547476591)"
+        }
+    }
+}

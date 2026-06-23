@@ -1,0 +1,26 @@
+{
+  "Chat gpt premium": {
+    "Config": {
+      "name": "Chat gpt premium",
+      "desc": "Teste",
+      "entrega": "Sim",
+      "icon": "",
+      "banner": "",
+      "dataCriacao": 1782184285738
+    },
+    "Campos": [
+      {
+        "estoque": [
+          "https://d6cfaf82-c524-4e08-9527-dc8569cc390a-00-jb05jp7jwetd.spock.replit.dev/api/healthz"
+        ],
+        "valor": 200,
+        "Nome": "Chat cpt",
+        "desc": "TesTeste",
+        "emoji": "1449070464981930015",
+        "criado": 1782184630744
+      }
+    ],
+    "Cupom": [],
+    "UltimaReposicao": 1782184703010
+  }
+}

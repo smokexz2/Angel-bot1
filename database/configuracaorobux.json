@@ -1,0 +1,25 @@
+{
+    "config": {
+        "status": true,
+        "valores": {
+            "robux": "32",
+            "gamepass": "42"
+        },
+        "statusGamepass": true,
+        "canais": {
+            "iniciadas": "1500480537020596284",
+            "canceladas": "1500480537020596284",
+            "aprovadas": "1499912273026875412",
+            "publicas": "1500280062509842492",
+            "categoriaCarrinhos": "1499945024115310783",
+            "logRobux": "1500280062509842492",
+            "gamepass": "1500280062509842492"
+        },
+        "limites": {
+            "robux": "20000",
+            "gamepass": "20000",
+            "minimoRobux": "100",
+            "minimoGamepass": "100"
+        }
+    }
+}

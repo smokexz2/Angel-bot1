@@ -1,0 +1,10 @@
+{
+    "config": {
+        "formato": "compv2",
+        "mensagem": "## **RESTOCK!** O produto **{Campo}** acabou de receber novos itens!\n\n-# **Campo:** `{Campo}`\n-# **Adicionados:** `{Stock}`\n-# **Estoque total:** `{StockTotal}`",
+        "corEmbed": "#7c3aed",
+        "canal": "",
+        "status": false,
+        "titulo": "Restock!"
+    }
+}

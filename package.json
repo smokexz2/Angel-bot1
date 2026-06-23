@@ -1,0 +1,52 @@
+{
+  "name": "@workspace/angel-bot",
+  "version": "1.0.0",
+  "description": "Bot da NovaBuxx",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@magicyan/discord": "^1.1.0",
+    "axios": "^1.13.2",
+    "canvas": "^3.2.0",
+    "chart.js": "^4.5.1",
+    "chokidar": "^5.0.0",
+    "colors": "^1.4.0",
+    "cron": "^4.4.0",
+    "discord-html-transcripts": "^3.2.1",
+    "discord-oauth2": "^1.0.6",
+    "discord.js": "^14.25.1",
+    "escape-html": "^1.0.3",
+    "express": "^5.2.1",
+    "faker": "^6.6.6",
+    "faz-um-pix": "^2.0.2",
+    "finalhandler": "^2.1.0",
+    "gerador-validador-cpf": "6.3.0",
+    "imap-simple": "^5.1.0",
+    "jimp": "^1.6.0",
+    "mailparser": "^3.7.1",
+    "mercadopago": "^2.3.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.6.0",
+    "ms": "^2.1.3",
+    "node-cron": "^4.2.1",
+    "node-schedule": "^2.1.1",
+    "openai": "^4.96.2",
+    "qr-code-styling-node": "^1.5.0",
+    "qrcode": "^1.5.4",
+    "qrcode-generator": "^2.0.4",
+    "qrcode-pix": "^5.0.0",
+    "request-ip": "^3.3.0",
+    "sdk-node-apis-efi": "^1.2.25",
+    "tweetnacl": "^1.0.3",
+    "uuid": "^11.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "Yago Henrique",
+  "license": "MIT"
+}

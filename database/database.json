@@ -1,0 +1,20 @@
+{
+  "1518815511998234686": {
+    "name": "Chat gpt premium"
+  },
+  "1518816881975234701": {
+    "name": "Chat gpt premium",
+    "camposelect": "Chat cpt"
+  },
+  "1121118186432114788": {
+    "delimitadorStock": {
+      "estoque": "https://d6cfaf82-c524-4e08-9527-dc8569cc390a-00-jb05jp7jwetd.spock.replit.dev/api/healthz",
+      "delimitador": null,
+      "produto": "Chat gpt premium",
+      "campo": "Chat cpt"
+    }
+  },
+  "1518817642511732807": {
+    "name": "Chat gpt premium"
+  }
+}

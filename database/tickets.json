@@ -1,0 +1,15 @@
+{
+    "tickets": {
+        "config": {
+            "modoContent": true,
+            "textContent": "# Atendimento - WINNBUXX\nhttps://discord.gg/zkHSZAVA2e\n- Seja bem vindo ao painel de Suporte, se precisar de ajuda ou tiver duvidas abra um ticket aqui"
+        },
+        "funcoes": {},
+        "aparencia": {
+            "title": "Suporte",
+            "description": "Abra um ticket para atendimento"
+        },
+        "messageid": [],
+        "paineis": {}
+    }
+}
