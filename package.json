@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "install-bot": "npm install --ignore-scripts || true"
   },
   "dependencies": {
     "@discordjs/voice": "^0.19.2",
     "@magicyan/discord": "^1.1.0",
     "axios": "^1.13.2",
-    "canvas": "^3.2.0",
     "chart.js": "^4.5.1",
     "chokidar": "^5.0.0",
     "colors": "^1.4.0",
@@ -48,5 +48,8 @@
     "node": ">=20"
   },
   "author": "Yago Henrique",
-  "license": "MIT"
+  "license": "MIT",
+  "optionalDependencies": {
+    "canvas": "^3.2.0"
+  }
 }
